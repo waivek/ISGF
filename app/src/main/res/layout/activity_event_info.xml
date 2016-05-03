@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.toshibapc.myapplication.EventInfo">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="About India Smart Grid Week 2015"
+                android:id="@+id/textView" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="The emergence of India as a strong economic power is receiving widespread recognition in the world. On the other hand, although we operate the fourth largest power system in the world, one-third of our population have no access to electricity and our percapita consumption of electricity is one-fourth of the world average! Transmission and Distribution losses in India are also quite high - about 26% in distribution and more than 7% in transmission! Government of India (GoI) and other stakeholders have realized that by implementing incremental improvements in a business as usual scenario we will not be able to provide 24x7 electricity to all households in the country - it requires innovative strategies, breakthrough technologies and bold decisions. In 2013, GoI issued Smart Grid Vision and Roadmap for India; and the newly elected Government in India is committed to provide 24x7 electricity to all households in next 5 years and has recently launched 3 focused programs towards this objective with a total capital outlay of US$ 14 billion. The new Government has also announced an ambitious program to build 100 Smart Cities on fast track. With all these ground breaking initiatives, India has already emerged as the prime destination for Smart Grids and Smart Cities."
+                android:id="@+id/textView2" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="ISGF is organizing India Smart Grid Week (ISGW 2015) from 02 – 06 March, 2015 at Bangalore.  "
+                android:id="@+id/textView3" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

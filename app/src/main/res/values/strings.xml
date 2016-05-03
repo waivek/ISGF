@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">India Smart Grid Week</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_event_info">About ISGW 2015</string>
+    <string name="title_activity_event_schedule">Schedule : Swipe to view next day</string>
+    <string name="title_activity_event_details">About the Event</string>
+    <string name="title_activity_exhibitors">List of Exhibitors</string>
+
+    <string-array name="array_exhibitor">
+        <item>Exhibitor One</item>
+        <item>Exhibitor Two</item>
+        <item>Exhibitor Three</item>
+        <item>Exhibitor Four</item>
+        <item>Exhibitor Five</item>
+        <item>Exhibitor Six</item>
+        <item>Exhibitor Seven</item>
+        <item>Exhibitor Eight</item>
+        <item>Exhibitor Nine</item>
+        <item>Exhibitor Ten</item>
+        <item>Exhibitor Eleven</item>
+        <item>Exhibitor Twelve</item>
+        <item>Exhibitor Thirteen</item>
+        <item>Exhibitor Fourteen</item>
+        <item>Exhibitor Fifteen</item>
+        <item>Exhibitor Sixteen</item>
+        <item>Exhibitor Seventeen</item>
+        <item>Exhibitor Eighteen</item>
+        <item>Exhibitor Nineteen</item>
+        <item>Exhibitor Twenty</item>
+        <item>Exhibitor Twenty One</item>
+        <item>Exhibitor Twenty Two</item>
+        <item>Exhibitor Twenty Three</item>
+        <item>Exhibitor Twenty Four</item>
+    </string-array>
+    <string-array name="array_sponsor">
+        <item>Sponsor One</item>
+        <item>Sponsor Two</item>
+        <item>Sponsor Three</item>
+        <item>Sponsor Four</item>
+        <item>Sponsor Five</item>
+        <item>Sponsor Six</item>
+        <item>Sponsor Seven</item>
+        <item>Sponsor Eight</item>
+        <item>Sponsor Nine</item>
+        <item>Sponsor Ten</item>
+        <item>Sponsor Eleven</item>
+        <item>Sponsor Twelve</item>
+        <item>Sponsor Thirteen</item>
+        <item>Sponsor Fourteen</item>
+        <item>Sponsor Fifteen</item>
+        <item>Sponsor Sixteen</item>
+        <item>Sponsor Seventeen</item>
+        <item>Sponsor Eighteen</item>
+        <item>Sponsor Nineteen</item>
+        <item>Sponsor Twenty</item>
+        <item>Sponsor Twenty One</item>
+        <item>Sponsor Twenty Two</item>
+        <item>Sponsor Twenty Three</item>
+        <item>Sponsor Twenty Four</item>
+    </string-array>
+    <string-array name="first_day">
+        <item><item>Day One Item One</item><item>Timing</item></item>
+        <item>Day One Item Two</item>
+        <item>Day One Item Three</item>
+        <item>Day One Item Four</item>
+        <item>Day One Item Five</item>
+        <item>Day One Item Six</item>
+        <item>Day One Item Seven</item>
+        <item>Day One Item Eight</item>
+        <item>Day One Item Nine</item>
+        <item>Day One Item Ten</item>
+        <item>Day One Item Eleven</item>
+        <item>Day One Item Twelve</item>
+        <item>Day One Item Thirteen</item>
+        <item>Day One Item Fourteen</item>
+        <item>Day One Item Fifteen</item>
+        <item>Day One Item Sixteen</item>
+        <item>Day One Item Seventeen</item>
+        <item>Day One Item Eighteen</item>
+        <item>Day One Item Nineteen</item>
+        <item>Day One Item Twenty</item>
+        <item>Day One Item Twenty One</item>
+        <item>Day One Item Twenty Two</item>
+        <item>Day One Item Twenty Three</item>
+        <item>Day One Item Twenty Four</item>
+    </string-array>
+    <string-array name="second_day">
+        <item>Day Two Item One</item>
+        <item>Day Two Item Two</item>
+        <item>Day Two Item Three</item>
+        <item>Day Two Item Four</item>
+        <item>Day Two Item Five</item>
+        <item>Day Two Item Six</item>
+        <item>Day Two Item Seven</item>
+        <item>Day Two Item Eight</item>
+        <item>Day Two Item Nine</item>
+        <item>Day Two Item Ten</item>
+        <item>Day Two Item Eleven</item>
+        <item>Day Two Item Twelve</item>
+        <item>Day Two Item Thirteen</item>
+        <item>Day Two Item Fourteen</item>
+        <item>Day Two Item Fifteen</item>
+        <item>Day Two Item Sixteen</item>
+        <item>Day Two Item Seventeen</item>
+        <item>Day Two Item Eighteen</item>
+        <item>Day Two Item Nineteen</item>
+        <item>Day Two Item Twenty</item>
+        <item>Day Two Item Twenty One</item>
+        <item>Day Two Item Twenty Two</item>
+        <item>Day Two Item Twenty Three</item>
+        <item>Day Two Item Twenty Four</item>
+    </string-array>
+
+    <string name="title_activity_speaker">List of Speakers</string>
+    <string name="title_activity_venue">Venue</string>
+    <string name="title_activity_sponsor">List of Sponsors</string>
+    <string name="title_activity_schedule_activitiy">Schedule</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="title_activity_floor_plan">Floor Plan</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+</resources>

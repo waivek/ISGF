@@ -1,0 +1,132 @@
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@android:color/holo_blue_light">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/banner"
+        android:src="@drawable/logo"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp" />
+
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/gridView"
+        android:layout_below="@id/banner"
+        android:numColumns="3"/>
+
+
+    <!--<TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/banner"
+        android:shrinkColumns="1"
+        android:id="@+id/tableLayout">
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:weightSum="9">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="127dp"
+                android:id="@+id/imageView"
+                android:layout_weight="3"
+                android:src="@drawable/event_info"
+                android:onClick="startEventInfo"/>
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="127dp"
+                android:id="@+id/imageView2"
+                android:layout_weight="3"
+                android:src="@drawable/schedule"
+                android:onClick="startEventSchedule" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="127dp"
+                android:id="@+id/imageView3"
+                android:layout_weight="3"
+                android:src="@drawable/exhibition"
+                android:onClick="startExhibitorsActivity" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:weightSum="9"
+            android:id="@+id/tableRow">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="127dp"
+                android:id="@+id/imageView4"
+                android:layout_weight="3"
+                android:src="@drawable/speaker"
+                android:onClick="displayMessage" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="127dp"
+                android:id="@+id/imageView5"
+                android:layout_weight="3"
+                android:src="@drawable/venue"
+                android:onClick="startVenue" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="127dp"
+                android:id="@+id/imageView6"
+                android:layout_weight="3"
+                android:src="@drawable/sponsor"
+                android:onClick="startSponsor" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:weightSum="9"
+            android:id="@+id/tableRow2">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="127dp"
+                android:id="@+id/imageView7"
+                android:layout_weight="3"
+                android:src="@drawable/floor_plan"
+                android:onClick="displayMessage" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="127dp"
+                android:id="@+id/imageView8"
+                android:layout_weight="3"
+                android:src="@drawable/registration"
+                android:onClick="displayMessage" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="127dp"
+                android:id="@+id/imageView9"
+                android:layout_weight="3"
+                android:src="@drawable/more"
+                android:onClick="displayMessage" />
+        </TableRow>
+
+    </TableLayout>-->
+
+
+</RelativeLayout>
+
+
+
+
